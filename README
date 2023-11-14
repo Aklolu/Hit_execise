@@ -2,5 +2,4 @@ Assumption is that mgr host does not need a username and password as authenticat
 IP shows all hosts are in the same class C network
 Created 2 functions
 1 function to for getting and sorting files as well as metadata
-second function is to call the function with the 2 file paths passed twice in parallel then compare the results which are returned in array
-Integration test would be advised- to do that set up both directories with known file object data and asset return values are expected
+second function is to call the function with the 2 file paths passed twice in parallel then compare the results which are returned in arra
